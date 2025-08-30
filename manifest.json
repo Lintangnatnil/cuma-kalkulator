@@ -1,0 +1,22 @@
+{
+    "name": "Kalkulator HP",
+    "short_name": "Kalkulator",
+    "description": "Aplikasi kalkulator sederhana",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#333",
+    "theme_color": "#444",
+    "icons": [
+      {
+        "src": "icons/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
